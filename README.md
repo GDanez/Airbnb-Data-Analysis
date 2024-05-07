@@ -8,11 +8,11 @@ Our primary goal is to develop predictive models capable of estimating listing p
 
 ## Key Features and Workflow:
 **Data Preprocessing and Cleaning**: Initial data cleaning to handle missing values including NaN and Null values.
-Exploratory Data Analysis (EDA): Detailed exploration of the dataset to uncover patterns, trends, and correlations between different variables.
-**Sentiment Analysis**: Utilizing text columns to perform sentiment analysis, helping to understand the emotions and sentiments expressed in listing descriptions, house rules, interaction, transit, etc.
-**Topic Detection**: Implementing clustering techniques on transit data to detect and categorize topics within the listings, which assists in identifying the prevalent transit methods across different listings.
-**Feature Importance and Selection**: Evaluating the importance of various features in the dataset, followed by selecting the most impactful features to improve model performance.
-**Predictive Modeling with Decision Trees**: Developing a regression model using decision trees to predict listing prices based on the selected features.
+Exploratory Data Analysis (EDA): Detailed exploration of the dataset to uncover patterns, trends, and correlations between different variables.  
+**Sentiment Analysis**: Utilizing text columns to perform sentiment analysis, helping to understand the emotions and sentiments expressed in listing descriptions, house rules, interaction, transit, etc.  
+**Topic Detection**: Implementing clustering techniques on transit data to detect and categorize topics within the listings, which assists in identifying the prevalent transit methods across different listings.  
+**Feature Importance and Selection**: Evaluating the importance of various features in the dataset, followed by selecting the most impactful features to improve model performance.  
+**Predictive Modeling with Decision Trees**: Developing a regression model using decision trees to predict listing prices based on the selected features.  
 **Technologies Used**:
 Apache Spark / PySpark: For distributed data processing.
 Python: For scripting and additional data manipulation.
