@@ -21,6 +21,6 @@ Tableau: For data visualization in different states across the U.S.
 
 **Purpose**: This project is designed as a practical application of big data tools providing real estate analytics, suitable for academic purposes, real estate market analysis, and data science training.
 
-The csv files that were used for this project were retrieved from here:
-Airbnb_listing: https://public.opendatasoft.com/explore/dataset/airbnb-listings/table/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features
-Us_cities:  https://simplemaps.com/data/us-cities
+**The csv files that were used for this project were retrieved from here**:  
+Airbnb_listing: https://public.opendatasoft.com/explore/dataset/airbnb-listings/table/?disjunctive.host_verifications&disjunctive.amenities&disjunctive.features  
+Us_cities:  https://simplemaps.com/data/us-cities  
