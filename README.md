@@ -17,7 +17,6 @@ Our primary goal is to develop predictive models capable of estimating listing p
 **Technologies Used**:
 Apache Spark / PySpark: For distributed data processing.
 Python: For scripting and additional data manipulation.
-Tableau: For data visualization in different states across the U.S.
 
 **Purpose**: This project is designed as a practical application of big data tools providing real estate analytics, suitable for academic purposes, real estate market analysis, and data science training.
 
