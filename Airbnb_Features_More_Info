@@ -1,0 +1,95 @@
+**More info on Data Set Features**:  
+
+access: Information on what areas of the property guests can access.  
+accommodates: Number of guests the property can accommodate.  
+amenities: List of amenities provided with the listing (e.g., WiFi, towels).  
+availability_30, 60, 90, 365: Number of days the property is available for booking over the next 30, 60, 90, or 365 days.  
+bathrooms: Number of bathrooms.  
+bed_type: Type of bed(s) provided.  
+bedrooms: Number of bedrooms.  
+beds: Number of beds.  
+calculated_host_listings_count: Total number of listings from the same host.  
+calendar_last_scraped: Date when the listing's calendar was last scraped.  
+calendar_updated: Date or time frame of when the listing's calendar was last updated.  
+cancellation_policy: The listing’s cancellation policy type.  
+city: City in which the listing is located.  
+cleaning_fee: Fee charged for cleaning the property.  
+country: Country in which the listing is located.  
+country_code: Country code for the listing location.  
+description: Full description of the listing.  
+experiences_offered: Types of experiences offered through the listing.  
+extra_people: Fee for additional guests beyond the standard number included in the booking.  
+features: Additional features of the property not categorized elsewhere.  
+first_review: Date of the first review.  
+geolocation: Geographic coordinates (latitude and longitude).  
+guests_included: Number of guests included in the booking price.  
+has_availability: Indicator of whether the listing is currently available.  
+host_about: Information about the host.  
+host_acceptance_rate: Rate at which the host accepts booking requests.  
+host_id: Unique identifier for the host.  
+host_listings_count: Total number of listings from the host.  
+host_location: The location of the host.  
+host_name: Name of the host.  
+host_neighbourhood: Neighbourhood of the host.  
+host_picture_url: URL of the host's profile picture.  
+host_response_rate: Rate at which the host responds to inquiries.  
+host_response_time: Average time the host takes to respond to inquiries.  
+host_since: Date the host joined Airbnb.  
+host_thumbnail_url: Thumbnail URL of the host’s profile picture.  
+host_total_listings_count: Total number of active listings the host has.  
+host_url: URL to the host's profile.  
+host_verifications: Methods the host has used to verify their identity.  
+house_rules: Rules set by the host for guests.  
+id: Unique identifier for the listing.  
+interaction: Description of how much interaction the host offers.  
+jurisdiction_names: Legal jurisdiction(s) under which the listing falls.  
+last_review: Date of the last review.  
+last_scraped: Date when the data for the listing was last scraped.  
+latitude: Geographic latitude of the listing.  
+license: License or registration number.  
+listing_url: URL of the listing on Airbnb.  
+longitude: Geographic longitude of the listing.  
+market: The regional area the listing is part of.  
+maximum_nights: Maximum number of nights a guest can stay.  
+medium_url: Medium-sized image URL of the listing.  
+minimum_nights: Minimum number of nights required for a booking.  
+monthly_price: Price for a month-long stay.  
+name: Name of the listing.  
+neighborhood_overview: Description of the neighborhood.  
+neighbourhood: Neighbourhood in which the listing is located.  
+neighbourhood_cleansed: Standardized name of the neighbourhood.  
+neighbourhood_group_cleansed: Grouped designation of neighbourhoods.  
+notes: Additional notes provided by the host.  
+number_of_reviews: Total number of reviews the listing has received.  
+picture_url: URL of a picture of the listing.  
+price: price for the listing per day.  
+property_type: Type of property (e.g., house, apartment).  
+review_scores_accuracy, checkin, cleanliness, communication, location, rating, value: Various categories of review scores.  
+reviews_per_month: Average number of reviews the listing receives per month.  
+room_type: Type of room offered (e.g., entire home, private room).  
+scrape_id: ID for the scraping session that collected the data.  
+security_deposit: Security deposit amount required.  
+smart_location: Location in a format suitable for display.  
+space: Detailed description of the space provided.  
+square_feet: Size of the property in square feet.  
+state: State in which the property is located.  
+street: Street address of the listing.  
+summary: A short summary of the listing.  
+thumbnail_url: URL for a thumbnail image of the listing.  
+transit: Information about nearby transit options.  
+weekly_price: Price for a week-long stay.  
+xl_picture_url: Extra-large picture URL of the listing.  
+zipcode: Zip code where the listing is located.  
+
+**Categorical variables**  
+bed_type, cancelation_policy, city, experiences_offer, features, host_about,host_location, host_response_time, host_verifications, jurisdiction_names,  
+license, interaction, market, neighbourhood_overview,neighbourhood, notes,property_type, room_type, smart_location, space,state, amenities  
+  
+**Text**  
+access,  calendar_updated, description, host_name, host_Neighberhood, house_rules, name, neighbourhood_cleansed, neighbourhood_group_cleansed, street, summary, transit  
+  
+**Numerical**  
+accommodates, availability_30, availability_365, availability_60, availability_90, bathrooms, bedrooms, beds, calculated_host_listings_count, cleaning_fee, extra_people,  
+guests_included, host_listings_count, host_response_rate, host_total_listings_count, maximum_nights, minimum_nights, monthly_price, number_of_reviews, price,  
+review_scores_accuracy, review_scores_checkin, review_scores_cleanliness, review_scores_communication, review_scores_location, review_scores_rating, review_scores_value,  
+reviews_per_month, security_deposit, weekly_price  
