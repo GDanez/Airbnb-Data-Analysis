@@ -1,4 +1,4 @@
-# Project Title: Text and Predictive Analysis of US Listings Using PySpark
+# Project Title: Text and Predictive Analysis of Airbnb US Listings Using PySpark
 
 ## Description
 Advanced Text and Predictive Analysis of US Listings Using PySpark is a data analytics project focused on analyzing listing data across the United States. This project leverages the power of Apache Spark, utilizing its PySpark module, to handle large datasets with complex variations and perform extensive data preprocessing, exploratory analysis, and advanced text processing for sentiment analysis and topic detection.
